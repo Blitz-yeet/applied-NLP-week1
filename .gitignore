@@ -1,4 +1,7 @@
 # Data files
+data/*.txt # Directory for data files
+data/PetSemetary.txt
+data/TheShining.txt
 data/ # Directory for data files
 
 # Heavy powerpoint slides
